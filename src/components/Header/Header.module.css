@@ -1,0 +1,8 @@
+.Header {
+    display:flex;
+    justify-content: space-between;
+    background-color: #0067A3;
+    height: 55px;
+    color: white;
+    padding: 0 20px 0 20px;
+}

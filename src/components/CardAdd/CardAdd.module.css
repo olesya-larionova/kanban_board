@@ -1,0 +1,34 @@
+.CardAdd input{
+    display:none;
+    margin: 0 10px;
+}
+
+.CardAdd button{
+    color: black;
+    cursor: pointer;
+    text-align: left;
+    border:none;
+    max-width:100px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.CardAdd button:hover{
+    background-color: white;
+}
+
+.CardAdd button:disabled {
+    color: grey;
+    background-color: transparent;
+    cursor: auto;
+}
+
+.CardAdd div {
+    display:  flex;
+    flex-direction: column;
+
+}
+
+.CardAdd .Select {
+    margin: 0 10px;
+}

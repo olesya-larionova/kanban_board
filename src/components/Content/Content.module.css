@@ -1,0 +1,9 @@
+.Content {
+    height: calc(100vh - 150px);
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #0079BF;
+}
+

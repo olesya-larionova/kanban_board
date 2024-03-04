@@ -1,0 +1,21 @@
+.Footer {
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    background-color: #0067A3;
+    height: 55px;
+    margin-top: auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.Tasks {
+    padding: 0 20px;
+    margin: auto 0;
+}
+
+.Author {
+    padding: 0 20px;
+    margin: auto 0;
+}
